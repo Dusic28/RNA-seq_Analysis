@@ -1,0 +1,25 @@
+# 测序原始数据和比对文件（体积大，不上传）
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+
+# 参考基因组和索引
+*.fa
+*.fasta
+*.fa.gz
+*.gtf
+*.gff
+*.gff3
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.ipynb_checkpoints/
+__pycache__/
